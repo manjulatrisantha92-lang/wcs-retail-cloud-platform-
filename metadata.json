@@ -1,0 +1,6 @@
+{
+  "name": "WCS Retail Cloud Platform",
+  "description": "Multi-tenant, modular retail management, POS billing, cash drawer & day open deposit / day end close withdrawal studio, super admin direct shop broadcast messaging, inventory, staff salaries & payroll, stock gap adjustment system, and remote licensing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
